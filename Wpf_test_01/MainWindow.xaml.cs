@@ -43,7 +43,7 @@ namespace Wpf_test_01
     double h =
     double bmi = w/(h*h);
 
-
+    Answer.Text
     }
 
     }
