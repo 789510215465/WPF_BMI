@@ -34,17 +34,18 @@ namespace Wpf_test_01
         {
             this.Close();
         }
-    private void HeightBar.ValueChanged(object sender, RoutedPropertyChanged e)
-    {
-    HeightBox.Text=HeightBar.Value.ToString();
-    
-    // 要先在 Height 上增加 Value=""
-    double w =   
-    double h =
-    double bmi = w/(h*h);
-
-    Answer.Text
-    }
-
-    }
+ 
+        private void WeightBar_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
+        {
+          if(IsInitiaized) // 當所有值都輸入後...
+          {
+          WeightBox.Text = WeightBar.Value.ToString();
+            
+            double w = double.Parse(WeightBox.Text) ;
+            double h = double.Parse(HeightBox.Text) / 100;
+            double bmi = w / (h * h);
+            
+            ResultBox.Text = bmi.ToString();
+           }        
+        }
 }
