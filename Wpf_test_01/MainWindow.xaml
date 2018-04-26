@@ -23,7 +23,7 @@
         <Button FontSize="24" Width="100" Height="50">
             計算
         </Button>
-            <TextBlock x:Name="answer" Aligment="center">
+            <TextBlock x:Name="answer" Aligment="center" FontSize="64">
                     0
             </TextBlock>
         
