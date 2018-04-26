@@ -1,0 +1,14 @@
+c:\git\Wpf_test_01\Wpf_test_01\bin\Debug\Wpf_test_01.exe.config
+c:\git\Wpf_test_01\Wpf_test_01\bin\Debug\Wpf_test_01.exe
+c:\git\Wpf_test_01\Wpf_test_01\bin\Debug\Wpf_test_01.pdb
+c:\git\Wpf_test_01\Wpf_test_01\obj\Debug\Wpf_test_01.csprojResolveAssemblyReference.cache
+c:\git\Wpf_test_01\Wpf_test_01\obj\Debug\MainWindow.g.cs
+c:\git\Wpf_test_01\Wpf_test_01\obj\Debug\App.g.cs
+c:\git\Wpf_test_01\Wpf_test_01\obj\Debug\Wpf_test_01_MarkupCompile.cache
+c:\git\Wpf_test_01\Wpf_test_01\obj\Debug\Wpf_test_01_MarkupCompile.lref
+c:\git\Wpf_test_01\Wpf_test_01\obj\Debug\MainWindow.baml
+c:\git\Wpf_test_01\Wpf_test_01\obj\Debug\Wpf_test_01.g.resources
+c:\git\Wpf_test_01\Wpf_test_01\obj\Debug\Wpf_test_01.Properties.Resources.resources
+c:\git\Wpf_test_01\Wpf_test_01\obj\Debug\Wpf_test_01.csproj.GenerateResource.Cache
+c:\git\Wpf_test_01\Wpf_test_01\obj\Debug\Wpf_test_01.exe
+c:\git\Wpf_test_01\Wpf_test_01\obj\Debug\Wpf_test_01.pdb
