@@ -34,5 +34,12 @@ namespace Wpf_test_01
         {
             this.Close();
         }
+    private void HeightBar.ValueChanged(object sender, RoutedPropertyChanged e)
+    {
+    HeightBox.Text=HeightBar.Value.ToString();
+    
+    
+    }
+
     }
 }
