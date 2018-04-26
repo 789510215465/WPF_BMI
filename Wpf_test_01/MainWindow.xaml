@@ -10,14 +10,14 @@
         
         <StackPanel Orientation="Horizontal">
                 <TextBlock FontSize="24" Height="30" Margin="5"> 身高 :</TextBlock>
-                <TextBox Width="350" Height="30" Margin="5" ></TextBox>
+                <TextBox Width="350" Height="30" Margin="5" x:Name="heightBox" ></TextBox>
                 <Button FontSize="24" Margin="5" Padding="1" x:Name="heightBoxBtn">清除</Button>
         </StackPanel> 
         
         <StackPanel Orientation="Horizontal">
-                <TextBlock FontSize="24" Height="30" Margin="5"> 體重 :</TextBlock>
-                <TextBox Width="350" Height="30" Margin="5" ></TextBox>
-                <Button FontSize="24" Margin="5" Padding="1"x:Name="heightBoxBtn">清除</Button>
+                <TextBlock FontSize="24" Height="30" Margin="5" > 體重 :</TextBlock>
+                <TextBox Width="350" Height="30" Margin="5" x:Name="weightBox"></TextBox>
+                <Button FontSize="24" Margin="5" Padding="1"x:Name="weightBoxBtn">清除</Button>
         </StackPanel>
         
         <Button FontSize="24" Width="100" Height="50">
