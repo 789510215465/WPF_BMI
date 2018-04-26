@@ -38,7 +38,12 @@ namespace Wpf_test_01
     {
     HeightBox.Text=HeightBar.Value.ToString();
     
-    
+    // 要先在 Height 上增加 Value=""
+    double w =   
+    double h =
+    double bmi = w/(h*h);
+
+
     }
 
     }
