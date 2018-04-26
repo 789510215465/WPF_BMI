@@ -23,7 +23,8 @@
         <Button FontSize="24" Width="100" Height="50">
             計算
         </Button>
-            <TextBlock>
+            <TextBlock x:Name="answer" Aligment =>
+                    0
             </TextBlock>
         
     </StackPanel>
