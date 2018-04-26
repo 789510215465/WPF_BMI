@@ -29,5 +29,10 @@ namespace Wpf_test_01
         {
             this.Close();
         }
+        
+        private void heightBoxBtn_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
     }
 }
